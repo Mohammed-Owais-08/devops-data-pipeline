@@ -1,0 +1,6 @@
+2026-05-01 10:16:59,973 - INFO - Pipeline started
+2026-05-01 10:17:00,368 - ERROR - Error: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=Bangalore&appid='dc86869ebbb9b790c93864f3974ffb2c'
+2026-05-01 10:20:30,267 - INFO - Pipeline started
+2026-05-01 10:20:30,654 - INFO - Pipeline completed successfully
+2026-05-01 10:26:04,404 - INFO - Pipeline started
+2026-05-01 10:26:05,577 - INFO - Pipeline completed successfully
